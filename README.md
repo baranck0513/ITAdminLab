@@ -6,18 +6,6 @@ This project is a hands on IT systems administration lab built to simulate a sma
 
 The goal of this project is to practise and document core IT support, infrastructure administration and cybersecurity fundamentals, including domain controller deployment, user and group management, Group Policy hardening, Windows client domain joining, Linux server hardening, patch reporting, backup verification and asset inventory documentation.
 
-## Project Status
-
-In progress
-
-Current progress:
-- Windows Server 2022 installed
-- Active Directory Domain Services configured
-- DNS Server role configured
-- Domain created: `securelab.local`
-- Domain Controller configured
-- Initial evidence collected
-
 ## Lab Environment
 
 | Hostname | Operating System | Role | IP Address |
@@ -26,7 +14,7 @@ Current progress:
 | WIN11-CLIENT01 | Windows 11 Evaluation | Domain-joined workstation | 192.168.56.20 |
 | UBUNTU-SRV01 | Ubuntu Server LTS | Hardened Linux server | 192.168.56.30 |
 
-## Skills Demonstrated
+## Features
 
 - Windows Server administration
 - Active Directory Domain Services
@@ -40,19 +28,6 @@ Current progress:
 - Asset inventory documentation
 - PowerShell and Bash scripting
 - Technical documentation
-
-## Planned Project Phases
-
-1. Windows Server 2022 installation
-2. Active Directory and DNS configuration
-3. OU, users and groups creation
-4. Group Policy security hardening
-5. Windows client domain join
-6. Ubuntu Server installation and hardening
-7. Patch reporting
-8. Backup verification
-9. Asset inventory
-10. Final documentation and lessons learned
 
 ## Evidence
 
